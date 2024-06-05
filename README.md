@@ -1,14 +1,19 @@
-# [陌竹](@mozhu1024)
+# [陌竹](@mozhu1024) [![Github](https://img.shields.io/github/followers/mozhu1024?label=Follow&style=social)](https://github.com/mozhu1024)
 
 ## Info
 
-- [优秀摸鱼成员@CTFHub](https://www.ctfhub.com)
+- 优秀摸鱼成员[@CTFHub](https://www.ctfhub.com)
+- Member of [中国蚁剑 AntSword](https://github.com/AntSwordProject)
 - Amateur Software Engineer
-  - Ctrl+C/V: Golang / Python / PHP / ...
-- Retired CTFer
+  - Ctrl+C/V: Golang / Rust
 - Security Researcher
-- Enterprise Security (E-Commerce)
-- 中国蚁剑 AntSword 核心开发者
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mozhu1024&hide=html" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mozhu1024&layout=compact&hide=html,css&langs_count=8&card_width=320" />
+</a>
 
 ## 📫 Contact
 
@@ -17,7 +22,5 @@
 
 ## Project
 
-- [AntSwordProject](https://github.com/AntSwordProject/antSword) 中国蚁剑是一款跨平台的开源网站管理工具
-- [CTF Training]([https://github.com/ctftraining/ctftraining](https://github.com/CTFTraining/CTFTraining)) 经典赛题环境复现平台
-- [virzz](https://github.com/virzz/virzz): A tools for terminal
-- [tools](http://tools.virzz.com/)
+- [CTF Training]([https://github.com/ctftraining/ctftraining]) 经典赛题环境复现
+- [Tools](http://tools.virzz.com/)
